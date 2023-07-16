@@ -17,7 +17,10 @@
     "sharp",
     "resize"
   ],
-
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/araaancode/image-uploader-mkt"
+  },
   "author": "fateme rahmany (araaancode)",
   "license": "ISC",
   "dependencies": {
